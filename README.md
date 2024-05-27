@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there 👋. I'm Kai, coder
 
-![HungKai30's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungKai30&theme=dark&show_icons=true)
+<img align="center" alt="Rose" src = "https://gifdb.com/gif/blackpink-rose-smile-love-gesture-0bpljwyd3w1tw7xl.html">
